@@ -1,0 +1,39 @@
+/**
+  * app.css
+  * Deep Rakeshkumar Patel
+  * 301239480
+  * Oct 2, 2022
+  */
+/* custom css goes here */
+.myimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+    height: 20;
+  }
+
+  .container{
+    text-align: center;
+  }
+  
+  .centertext {
+    display: block;
+    text-align: center;
+  }
+  
+
+  .lefttext {
+    display: block;
+    text-align: left;
+  }
+
+  .button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ 
+
+    
